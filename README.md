@@ -1,58 +1,67 @@
- <div align="center">
+ <!-- HEADER SECTION: Animated Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:20002a,100:00FFFF&height=250&section=header&text=Fasithafi&fo
+  ntSize=90&animation=fadeIn&fontAlignY=38&desc=Digital%20Architect%20%7C%20UI%20Skinning%20Specialist&descAlignY=62&descFontSize=20" width="100%" />
 
-  <!-- ANIMATED HEADER: Neon pulse effect using Capsule Render -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF0080,100:00FFFF&height=200&section=header&text=Fasithafi&fo
-  ntSize=90&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Skinning%20&descAlignY=62&descFontSize=20" width="100%" />
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Designing+Future+Inter
+  faces;Crafting+Immersive+Skins;UI%2FUX+Visual+Alchemy" alt="Typing SVG" />
+  </div>
 
-  <!-- ANIMATED TROPHIES: These update in real-time and have a slight glow/bounce -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Fasithafi&theme=tokyonight&no-frame=true&column=4" width="100%" />
+  ---
 
-  <br/>
-
-  <!-- THE KINETIC GRID: Using a table for layout, but filling it with lively assets -->
-  <table align="center">
+  ### 🌌 The Skinning Portfolio
+  <!-- PORTFOLIO GRID: Using HTML tables for a "Dashboard" feel -->
+  <table align="center" width="100%">
     <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">⚡ Neural Stack</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasithafi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
-  width="100%" />
-        <br/>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-        </p>
+      <td width="50%" align="center">
+        <a href="YOUR_LINK_HERE">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fasithafi&repo=YOUR_BEST_REPO&theme=tokyonight&show_owner=true" width="100%" />
+        </a>
+        <br><b>⚡ Neon-Void Theme</b><br><i>High-contrast cinematic skin</i>
       </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🎨 Skinning Lab</h3>
-        <!-- Dynamic Activity Graph: Shows your "pulse" on GitHub -->
-        <img src="https://github-readme-stats.vercel.app/api/activity-graph?username=Fasithafi&theme=tokyonight&hide_border=true&bg_color=0D1117"
-  width="100%" />
-        <br/>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Cyberpunk_UI-FF00FF?style=flat-square" />
-          <img src="https://img.shields.io/badge/Gaming_Themes-00FFFF?style=flat-square" />
-          <img src="https://img.shields.io/badge/Dark_Mode_Expert-8A2BE2?style=flat-square" />
-        </div>
+      <td width="50%" align="center">
+        <a href="YOUR_LINK_HERE">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fasithafi&repo=YOUR_OTHER_REPO&theme=dracula&show_owner=true" width="100%" />
+        </a>
+        <br><b>🌌 Galactic-Dark Theme</b><br><i>Deep space UI elements</i>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="YOUR_LINK_HERE">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fasithafi&repo=ANOTHER_REPO&theme=radical&show_owner=true" width="100%" />
+        </a>
+        <br><b>🔥 Cyber-Punk 2077</b><br><i>Aggressive neon aesthetics</i>
+      </td>
+      <td width="50%" align="center">
+        <a href="YOUR_LINK_HERE">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fasithafi&repo=LAST_REPO&theme=merko&show_owner=true" width="100%" />
+        </a>
+        <br><b>❄️ Frost-Glass UI</b><br><i>Modern glassmorphism skin</i>
       </td>
     </tr>
   </table>
 
-  <br/>
+  ---
 
-  <!-- THE "LIVELY" SECTION: Animated contribution snake -->
-  <h3 align="center">🐍 Contribution Flow</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fasithafi/Fasithafi/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/Fasithafi/Fasithafi/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation"
-  src="https://raw.githubusercontent.com/Fasithafi/Fasithafi/output/github-contribution-grid-snake.svg">
-  </picture>
+  ### 📊 Kinetic Metrics
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Fasithafi&theme=tokyonight&no-frame=true&column=4" width="100%" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Fasithafi&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasithafi&layout=compact&theme=tokyonight" width="48%" />
+  </div>
 
-  <br/>
+  ---
 
-  <!-- FINAL FOOTER: Pulsing status badge -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0:00FFFF,100:FF0080&height=50&section=footer" width="100%" />
+  ### 🐍 Contribution Kinetic-Wave
+  <!-- The Snake Animation: This is generated by the GitHub Action -->
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Fasithafi/Fasithafi/master/dist/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  </div>
 
+  <div align="center">
+    <img src="https://img.shields.io/badge/UI-Skinning-FF0080?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Theme-Design-00FFFF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vibe-Cyber-white?style=for-the-badge&logo=discord&logoColor=white" />
   </div>
